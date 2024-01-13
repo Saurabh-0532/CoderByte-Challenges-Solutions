@@ -36,3 +36,4 @@ GROUP BY
 ORDER BY 
     COUNT(maintable_V47CA.GroupID),
     maintable_V47CA.GroupID
+    DESC
